@@ -25,6 +25,7 @@ spaceship-tit_other_imputations.ipynb
 Lõplike täiendatud andmestike kompileerimine:
 spaceship-tit_compile_final_imputations.ipynb
 spaceship-tit_feature_engineer.ipynb
+(lõpliku kompileeritud faili salvestamise funktsioonis on võimalik valida kas salvestada training või testing andmestik)
 
 Treenimiseks ja ennustamiseks valmis konstrueeritud csv failid:
 ST_test_feature_final.csv
