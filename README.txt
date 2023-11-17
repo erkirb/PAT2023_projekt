@@ -14,6 +14,7 @@ spaceship-t_EDA_name_analy.ipynb
 spaceship-t_EDA_services_analy.ipynb
 
 Puuduvate andmete asendamise protsessis kasutatud notebookid:
+(notebookide päises on võimalik valida, kas laadida training või testing set andmetest)
 spaceship-tit_NaN_imputation.ipynb
 spaceship-tit_HomePlanet_predict.ipynb
 spaceship-tit_Cabin_predict.ipynb
